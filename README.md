@@ -6,9 +6,9 @@ No download, no signup required.
 ## Regex
 * [Regex101](https://regex101.com/) - Build, test and debug regular expressions
 * [Regexr](https://regexr.com/) - Create and test regular expressions (alternative to regex101)
+* [Regexper](https://regexper.com/) - Visualize regular expressions
 
 ## Data transform
-
 * [CSV to JSON](https://csvjson.com/) - Transform CSV content do JSON arrays
 * [JSON to CSV](https://csvjson.com/json2csv) - Transform JSON data to CSV file
 * [DiffChecker](https://www.diffchecker.com/) - Compare two different files line by line
@@ -30,6 +30,9 @@ No download, no signup required.
 * [Typescript playground](https://www.typescriptlang.org/play) - Typescript online REPL
 * [PHP CLI](https://replit.com/languages/php_cli) - Compile and test PHP code
 * [Jasmine template for Codepen](https://codepen.io/teles/pen/aKrBrg) - Template for using Jasmine on codepen
+
+## Diagrams
+* [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/edit) - Create and share diagrams using markdown language
 
 
 
