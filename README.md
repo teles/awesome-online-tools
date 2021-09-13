@@ -19,6 +19,12 @@ No download, no signup required.
 ## Text manipulation
 * [Dontpad.com](http://dontpad.com/) - Online notepad with automatic update
 * [Remove duplicated lines](https://www.textfixer.com/tools/remove-duplicate-lines.php) - Remove duplicated lines and sort text lines
+* [Emojipedia](https://emojipedia.org/) - Emojis list for copy and paste
+
+## Image manipulation
+* [favicon.io](https://favicon.io/) - Create favicons using text, images or emojis
+* [SVG Optimzer](https://svgoptimizer.com/) - Minify svg files
+* [Tiny png](https://tinypng.com/) - Minify jpg, png and webp images
 
 ## REPL
 * [Typescript playground](https://www.typescriptlang.org/play) - Typescript online REPL
