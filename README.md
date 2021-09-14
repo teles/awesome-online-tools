@@ -17,7 +17,6 @@ No download, no signup required.
 * [Rich Results](https://search.google.com/test/rich-results) - Check your structured data
 
 ## Text manipulation
-* [Dontpad.com](http://dontpad.com/) - Online notepad with automatic update
 * [Remove duplicated lines](https://www.textfixer.com/tools/remove-duplicate-lines.php) - Remove duplicated lines and sort text lines
 * [Emojipedia](https://emojipedia.org/) - Emojis list for copy and paste
 
@@ -33,6 +32,7 @@ No download, no signup required.
 
 ## Diagrams
 * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/edit) - Create and share diagrams using markdown language
+* [Excalidraw](https://excalidraw.com/) - Create sketch hand drawn like diagrams
 
 
 
