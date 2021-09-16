@@ -22,7 +22,7 @@ No download, no signup required.
 
 ## Image manipulation
 * [favicon.io](https://favicon.io/) - Create favicons using text, images or emojis
-* [SVG Optimzer](https://svgoptimizer.com/) - Minify svg files
+* [SVG Optimizer](https://svgoptimizer.com/) - Minify svg files
 * [Tiny png](https://tinypng.com/) - Minify jpg, png and webp images
 
 ## REPL
