@@ -24,6 +24,7 @@ No download, no signup required.
 * [favicon.io](https://favicon.io/) - Create favicons using text, images or emojis
 * [SVG Optimizer](https://svgoptimizer.com/) - Minify svg files
 * [Tiny png](https://tinypng.com/) - Minify jpg, png and webp images
+* [SVG to PNG](https://svgtopng.com/) - Converts svg files to png
 
 ## REPL
 * [Typescript playground](https://www.typescriptlang.org/play) - Typescript online REPL
