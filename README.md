@@ -15,6 +15,7 @@ No download, no signup required.
 
 ## SEO
 * [Rich Results](https://search.google.com/test/rich-results) - Check your structured data
+* [Bulk Redirect Checker Tool](https://www.redirect-checker.org/bulk-redirect-checker.php) - Check multiple redirects
 
 ## Text manipulation
 * [Remove duplicated lines](https://www.textfixer.com/tools/remove-duplicate-lines.php) - Remove duplicated lines and sort text lines
