@@ -36,6 +36,7 @@ No download, no signup required.
 * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/edit) - Create and share diagrams using markdown language
 * [Excalidraw](https://excalidraw.com/) - Create sketch hand drawn like diagrams
 * [Mind Meister](https://www.mindmeister.com/) - Tools for easily create mind maps 
+* [Markmap](https://markmap.js.org/repl) - Build interactive mindmaps using markdown
 
 ## Colors
 * [Colors stacks](https://lokeshdhakar.com/projects/color-stacks/) - A color palette generator for design systems
