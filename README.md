@@ -41,4 +41,5 @@ No download, no signup required.
 ## Colors
 * [Colors stacks](https://lokeshdhakar.com/projects/color-stacks/) - A color palette generator for design systems
 
-
+## Guides
+* [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/x23170.html) - An in-depth exploration of the art of shell scripting
