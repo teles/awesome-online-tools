@@ -38,6 +38,9 @@ No download, no signup required.
 * [Mind Meister](https://www.mindmeister.com/) - Tools for easily create mind maps 
 * [Markmap](https://markmap.js.org/repl) - Build interactive mindmaps using markdown
 
+## Screen Recording
+* [asciinema](https://asciinema.org/) - Record and share terminal sessions
+
 ## Colors
 * [Colors stacks](https://lokeshdhakar.com/projects/color-stacks/) - A color palette generator for design systems
 
