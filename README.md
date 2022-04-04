@@ -26,6 +26,7 @@ No download, no signup required.
 * [SVG Optimizer](https://svgoptimizer.com/) - Minify svg files
 * [Tiny png](https://tinypng.com/) - Minify jpg, png and webp images
 * [SVG to PNG](https://svgtopng.com/) - Converts svg files to png
+* [Cleanup Pictures](https://cleanup.pictures/) - Remove unwanted objects from photos
 
 ## REPL
 * [Typescript playground](https://www.typescriptlang.org/play) - Typescript online REPL
