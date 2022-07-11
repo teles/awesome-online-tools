@@ -4,6 +4,7 @@ Useful and awesome online tools that often I use.
 No download, no signup required.
 
 ## Regex
+* [AutoRegex](https://www.autoregex.xyz/) - Convert from English to RegEx with Natural Language Processing
 * [Regex101](https://regex101.com/) - Build, test and debug regular expressions
 * [Regexr](https://regexr.com/) - Create and test regular expressions (alternative to regex101)
 * [Regexper](https://regexper.com/) - Visualize regular expressions
