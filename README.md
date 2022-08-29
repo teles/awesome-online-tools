@@ -48,3 +48,7 @@ No download, no signup required.
 
 ## Guides
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting
+
+## CSS to copy
+* [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Box shadow examples to copy
+
