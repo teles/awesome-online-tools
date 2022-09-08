@@ -9,10 +9,11 @@ No download, no signup required.
 ## CSS to copy
 * [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Box shadow examples to copy
 
-## Data transform
+## Data transform and visualization
 * [CSV to JSON](https://csvjson.com/) - Transform CSV content do JSON arrays
 * [JSON to CSV](https://csvjson.com/json2csv) - Transform JSON data to CSV file
 * [DiffChecker](https://www.diffchecker.com/) - Compare two different files line by line
+* [JSON Crack](https://jsoncrack.com/) - Visualize your JSON data instantly into graphs
 
 ## Diagrams
 * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/edit) - Create and share diagrams using markdown language
