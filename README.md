@@ -16,10 +16,11 @@ No download, no signup required.
 * [JSON Crack](https://jsoncrack.com/) - Visualize your JSON data instantly into graphs
 
 ## Diagrams
-* [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/edit) - Create and share diagrams using markdown language
+* [dbdiagram.io](https://dbdiagram.io/d) - Draw Entity-Relationship Diagrams, Painlessly
 * [Excalidraw](https://excalidraw.com/) - Create sketch hand drawn like diagrams
-* [Mind Meister](https://www.mindmeister.com/) - Tools for easily create mind maps 
 * [Markmap](https://markmap.js.org/repl) - Build interactive mindmaps using markdown
+* [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/edit) - Create and share diagrams using markdown language
+* [Mind Meister](https://www.mindmeister.com/) - Tools for easily create mind maps 
 
 ## Guides
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting
