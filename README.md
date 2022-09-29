@@ -11,9 +11,11 @@ No download, no signup required.
 
 ## Data transform and visualization
 * [CSV to JSON](https://csvjson.com/) - Transform CSV content do JSON arrays
-* [JSON to CSV](https://csvjson.com/json2csv) - Transform JSON data to CSV file
 * [DiffChecker](https://www.diffchecker.com/) - Compare two different files line by line
+* [json2ts](http://json2ts.com/) - generate TypeScript interfaces from JSON
 * [JSON Crack](https://jsoncrack.com/) - Visualize your JSON data instantly into graphs
+* [JSON to CSV](https://csvjson.com/json2csv) - Transform JSON data to CSV file
+
 
 ## Diagrams
 * [dbdiagram.io](https://dbdiagram.io/d) - Draw Entity-Relationship Diagrams, Painlessly
