@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: teles/hello-world-javascript-action@v1.2
+        uses: teles/hello-world-javascript-action@v1.3
         with:
           who-to-greet: 'Teles - The Developer'
       # Use the output from the `hello` step
