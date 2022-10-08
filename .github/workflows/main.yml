@@ -1,15 +1,13 @@
 on: [push]
 
 jobs:
-  hello_world_job:
+  parse_to_bookmarks:
     runs-on: ubuntu-latest
-    name: A job to say hello
+    name: Parse list to chrome bookmarks
     steps:
-      - name: Hello world action step
-        id: hello
-        uses: teles/hello-world-javascript-action@v1.3
+      - uses: actions/checkout@v3
+      - id: foo
+        uses: teles/awesome-parser-action@v0.1
         with:
-          who-to-greet: 'Teles - The Developer'
-      # Use the output from the `hello` step
-      - name: Get the output time
-        run: echo "The time was ${{ steps.hello.outputs.time }}"
+          input: 'README.md'
+          output: 'dist/booksmarks.html'
