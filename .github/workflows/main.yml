@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - id: foo
-        uses: teles/awesome-parser-action@v0.1
+        uses: teles/awesome-parser-action@v0.2
         with:
           input: 'README.md'
           output: 'dist/booksmarks.html'
