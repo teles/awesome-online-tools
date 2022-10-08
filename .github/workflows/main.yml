@@ -7,4 +7,4 @@ jobs:
     steps:
         - uses: teles/awesome-parser-action@v0.4
           with:
-            input: '/github/workspace/README.md'
+            input: '${{ github.action_path }}/README.md'
