@@ -7,4 +7,4 @@ jobs:
     steps:
         - uses: teles/awesome-parser-action@v0.5
           with:
-            input: $GITHUB_ACTION_PATH/README.md
+            input: "README.md
