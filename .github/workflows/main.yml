@@ -5,6 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Chrome bookmarks
     steps:
-        - uses: teles/awesome-parser-action@v0.13
-          with:
-            input: "README.md"
+      - uses: teles/awesome-parser-action@v0.14
+        with:
+          input: "README.md"
+          output: "dist/bookmarks.html"
