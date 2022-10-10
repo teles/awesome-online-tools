@@ -3,18 +3,18 @@ on: [push]
 jobs:
   parse_to_bookmarks:
     runs-on: ubuntu-latest
-    name: Chrome bookmarks
+    name: Export README to json, csv and bookmarks
     steps:
-        - uses: teles/awesome-parser-action@v0.3.4
+        - uses: teles/awesome-parser-action@v0.3.5
           with:
             input: "README.md"
             output: "dist/bookmarks.html"
-        - uses: teles/awesome-parser-action@v0.3.4
+        - uses: teles/awesome-parser-action@v0.3.5
           with:
             type: "csv"
             input: "README.md"
             output: "dist/links.csv"
-        - uses: teles/awesome-parser-action@v0.3.4
+        - uses: teles/awesome-parser-action@v0.3.5
           with:
             type: "json"
             input: "README.md"
