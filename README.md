@@ -4,6 +4,7 @@ Useful and awesome online tools that often I use.
 No download, no signup required.
 
 ## Colors
+* [Color Designer](https://colordesigner.io/) - Several useful tools including conversion between color models, color palette from image, and a visually appealing gradient generator
 * [Colors stacks](https://lokeshdhakar.com/projects/color-stacks/) - A color palette generator for design systems
 
 ## CSS to copy
@@ -26,6 +27,7 @@ No download, no signup required.
 
 ## Guides
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting
+* [Easing Functions Cheat Sheet](https://easings.net/) - Explanation and demonstrations of numerous easing functions
 
 ## Image manipulation
 * [Cleanup Pictures](https://cleanup.pictures/) - Remove unwanted objects from photos
