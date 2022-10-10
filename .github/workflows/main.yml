@@ -5,16 +5,16 @@ jobs:
     runs-on: ubuntu-latest
     name: Export README to json, csv and bookmarks
     steps:
-        - uses: teles/awesome-parser-action@v0.3.5
+        - uses: teles/awesome-parser-action@v0.3.7
           with:
             input: "README.md"
             output: "dist/bookmarks.html"
-        - uses: teles/awesome-parser-action@v0.3.5
+        - uses: teles/awesome-parser-action@v0.3.7
           with:
             type: "csv"
             input: "README.md"
             output: "dist/links.csv"
-        - uses: teles/awesome-parser-action@v0.3.5
+        - uses: teles/awesome-parser-action@v0.3.7
           with:
             type: "json"
             input: "README.md"
