@@ -1,4 +1,5 @@
 section,name,description,url
+"Colors","Color Designer","Several useful tools including conversion between color models, color palette from image, and a visually appealing gradient generator","https://colordesigner.io/"
 "Colors","Colors stacks","A color palette generator for design systems","https://lokeshdhakar.com/projects/color-stacks/"
 "CSS to copy","Beautiful CSS box-shadow examples","Box shadow examples to copy","https://getcssscan.com/css-box-shadow-examples"
 "Data transform and visualization","CSV to JSON","Transform CSV content do JSON arrays","https://csvjson.com/"
@@ -12,6 +13,7 @@ section,name,description,url
 "Diagrams","Mermaid live editor","Create and share diagrams using markdown language","https://mermaid-js.github.io/mermaid-live-editor/edit"
 "Diagrams","Mind Meister","Tools for easily create mind maps ","https://www.mindmeister.com/"
 "Guides","Advanced Bash-Scripting Guide","An in-depth exploration of the art of shell scripting","https://tldp.org/LDP/abs/html/"
+"Guides","Easing Functions Cheat Sheet","Explanation and demonstrations of numerous easing functions","https://easings.net/"
 "Image manipulation","Cleanup Pictures","Remove unwanted objects from photos","https://cleanup.pictures/"
 "Image manipulation","favicon.io","Create favicons using text, images or emojis","https://favicon.io/"
 "Image manipulation","SVG Optimizer","Minify svg files","https://svgoptimizer.com/"
