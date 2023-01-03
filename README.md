@@ -3,6 +3,9 @@
 Useful and awesome online tools that often I use. 
 No download, no signup required.
 
+## Artificial Intelligence
+* [ChatGPT](https://chat.openai.com/chat) - Dialogue optimized model
+
 ## Colors
 * [Color Designer](https://colordesigner.io/) - Several useful tools including conversion between color models, color palette from image, and a visually appealing gradient generator
 * [Colors stacks](https://lokeshdhakar.com/projects/color-stacks/) - A color palette generator for design systems
