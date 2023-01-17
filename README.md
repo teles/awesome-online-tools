@@ -1,5 +1,7 @@
 # Awesome tools for developers daily usage
 
+[![Download bookmarks file](https://img.shields.io/badge/download-bookmarks%20file-orange)](/dist/bookmarks.html)
+
 Useful and awesome online tools that often I use. 
 No download, no signup required.
 
