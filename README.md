@@ -48,6 +48,7 @@ No download, no signup required.
 * [Regexr](https://regexr.com/) - Create and test regular expressions (alternative to regex101)
 
 ## REPL
+* [Google Colab](https://colab.research.google.com/) - Run Python snippets online
 * [Jasmine template for Codepen](https://codepen.io/teles/pen/aKrBrg) - Template for using Jasmine on codepen
 * [PHP CLI](https://replit.com/languages/php_cli) - Compile and test PHP code
 * [Typescript playground](https://www.typescriptlang.org/play) - Typescript online REPL
