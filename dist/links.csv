@@ -24,6 +24,7 @@ section,name,description,url
 "Regex","Regex101","Build, test and debug regular expressions","https://regex101.com/"
 "Regex","Regexper","Visualize regular expressions","https://regexper.com/"
 "Regex","Regexr","Create and test regular expressions (alternative to regex101)","https://regexr.com/"
+"REPL","Google Colab","Run Python snippets online","https://colab.research.google.com/"
 "REPL","Jasmine template for Codepen","Template for using Jasmine on codepen","https://codepen.io/teles/pen/aKrBrg"
 "REPL","PHP CLI","Compile and test PHP code","https://replit.com/languages/php_cli"
 "REPL","Typescript playground","Typescript online REPL","https://www.typescriptlang.org/play"
