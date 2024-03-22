@@ -19,6 +19,7 @@ section,name,description,url
 "Image manipulation","favicon.io","Create favicons using text, images or emojis","https://favicon.io/"
 "Image manipulation","SVG Optimizer","Minify svg files","https://svgoptimizer.com/"
 "Image manipulation","SVG to PNG","Converts svg files to png","https://svgtopng.com/"
+"Image manipulation","SVG Viewer","SVG to png, react, data uri and more","https://www.svgviewer.dev/"
 "Image manipulation","Tiny png","Minify jpg, png and webp images","https://tinypng.com/"
 "Regex","AutoRegex","Convert from English to RegEx with Natural Language Processing","https://www.autoregex.xyz/"
 "Regex","Regex101","Build, test and debug regular expressions","https://regex101.com/"
