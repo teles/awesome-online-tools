@@ -39,6 +39,7 @@ No download, no signup required.
 * [favicon.io](https://favicon.io/) - Create favicons using text, images or emojis
 * [SVG Optimizer](https://svgoptimizer.com/) - Minify svg files
 * [SVG to PNG](https://svgtopng.com/) - Converts svg files to png
+* [SVG Viewer](https://www.svgviewer.dev/) - SVG to png, react, data uri and more
 * [Tiny png](https://tinypng.com/) - Minify jpg, png and webp images
 
 ## Regex
