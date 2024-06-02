@@ -31,6 +31,7 @@
 {"section": "REPL", "name": "Typescript playground", "description": "Typescript online REPL", "url": "https://www.typescriptlang.org/play"},
 {"section": "Screen Recording", "name": "asciinema", "description": "Record and share terminal sessions", "url": "https://asciinema.org/"},
 {"section": "SEO", "name": "Bulk Redirect Checker Tool", "description": "Check multiple redirects", "url": "https://www.redirect-checker.org/bulk-redirect-checker.php"},
+{"section": "SEO", "name": "LinkedIn Post Checker", "description": "Check metadata for your page", "url": "https://www.linkedin.com/post-inspector/inspect/teles.dev.br"},
 {"section": "SEO", "name": "Rich Results", "description": "Check your structured data", "url": "https://search.google.com/test/rich-results"},
 {"section": "Text manipulation", "name": "Emojipedia", "description": "Emojis list for copy and paste", "url": "https://emojipedia.org/"},
 {"section": "Text manipulation", "name": "Remove duplicated lines", "description": "Remove duplicated lines and sort text lines", "url": "https://www.textfixer.com/tools/remove-duplicate-lines.php"}
