@@ -22,7 +22,6 @@ No download, no signup required.
 * [JSON to CSV](https://csvjson.com/json2csv) - Transform JSON data to CSV file
 * [json2ts](http://json2ts.com/) - generate TypeScript interfaces from JSON
 
-
 ## Diagrams
 * [dbdiagram.io](https://dbdiagram.io/d) - Draw Entity-Relationship Diagrams, Painlessly
 * [Excalidraw](https://excalidraw.com/) - Create sketch hand drawn like diagrams
@@ -59,6 +58,7 @@ No download, no signup required.
 
 ## SEO
 * [Bulk Redirect Checker Tool](https://www.redirect-checker.org/bulk-redirect-checker.php) - Check multiple redirects
+* [LinkedIn Post Checker](https://www.linkedin.com/post-inspector/inspect/teles.dev.br) - Check metadata for your page
 * [Rich Results](https://search.google.com/test/rich-results) - Check your structured data
 
 ## Text manipulation
