@@ -9,15 +9,15 @@ jobs:
           with:
             input: README.md
             output: dist/bookmarks.html
-        - uses: teles/readme-converter-action@v0.4.2
+        - uses: teles/awesome-parser-action@v0.4.2
           with:
             type: csv
             input: README.md
             output: dist/links.csv
-        - uses: teles/readme-converter-action@v0.4.2
+        - uses: teles/awesome-parser-action@v0.4.2
           with:
             type: json
             input: README.md
             output: dist/links.json
-            commit_branch: gh-pages
+            commit_branch: main
             commit_message: Updates JSON file
