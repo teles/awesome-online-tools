@@ -10,7 +10,7 @@ No download, no signup required.
 
 ## Colors
 * [Color Designer](https://colordesigner.io/) - Several useful tools including conversion between color models, color palette from image, and a visually appealing gradient generator
-* [Colors stacks](https://lokeshdhakar.com/projects/color-stacks/) - A color palette generator for  design systems
+* [Colors stacks](https://lokeshdhakar.com/projects/color-stacks/) - A color palette generator for design systems
 
 ## CSS to copy
 * [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Box shadow examples to copy
