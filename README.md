@@ -16,15 +16,16 @@ No download, no signup required.
 * [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Box shadow examples to copy
 
 ## Data transform and visualization
-* [CSV to JSON](https://csvjson.com/) - Transform CSV content do JSON arrays
+* [CSV to JSON](https://csvjson.com/) - Transform CSV content to JSON arrays
 * [DiffChecker](https://www.diffchecker.com/) - Compare two different files line by line
 * [JSON Crack](https://jsoncrack.com/) - Visualize your JSON data instantly into graphs
 * [JSON to CSV](https://csvjson.com/json2csv) - Transform JSON data to CSV file
-* [json2ts](http://json2ts.com/) - generate TypeScript interfaces from JSON
+* [json2ts](http://json2ts.com/) - Generate TypeScript interfaces from JSON
+* [QuickChart](https://quickchart.io/sandbox) - API for generating charts and visualizations via URL
 
 ## Diagrams
 * [dbdiagram.io](https://dbdiagram.io/d) - Draw Entity-Relationship Diagrams, Painlessly
-* [Excalidraw](https://excalidraw.com/) - Create sketch hand drawn like diagrams
+* [Excalidraw](https://excalidraw.com/) - Create sketch hand-drawn-like diagrams
 * [Markmap](https://markmap.js.org/repl) - Build interactive mindmaps using markdown
 * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/edit) - Create and share diagrams using markdown language
 * [Mind Meister](https://www.mindmeister.com/) - Tools for easily create mind maps 
@@ -36,6 +37,7 @@ No download, no signup required.
 ## Image manipulation
 * [Cleanup Pictures](https://cleanup.pictures/) - Remove unwanted objects from photos
 * [favicon.io](https://favicon.io/) - Create favicons using text, images or emojis
+* [Remove.bg](https://www.remove.bg/pt-br/upload) - Remove image backgrounds automatically
 * [SVG Optimizer](https://svgoptimizer.com/) - Minify svg files
 * [SVG to PNG](https://svgtopng.com/) - Converts svg files to png
 * [SVG Viewer](https://www.svgviewer.dev/) - SVG to png, react, data uri and more
@@ -43,6 +45,7 @@ No download, no signup required.
 
 ## Regex
 * [AutoRegex](https://www.autoregex.xyz/) - Convert from English to RegEx with Natural Language Processing
+* [Debuggex](https://www.debuggex.com/) - Visual tool for building and debugging regular expressions
 * [Regex101](https://regex101.com/) - Build, test and debug regular expressions
 * [Regexper](https://regexper.com/) - Visualize regular expressions
 * [Regexr](https://regexr.com/) - Create and test regular expressions (alternative to regex101)
@@ -62,5 +65,6 @@ No download, no signup required.
 * [Rich Results](https://search.google.com/test/rich-results) - Check your structured data
 
 ## Text manipulation
+* [Convertio](https://convertio.co/pt/) - File conversion, including CSV, JSON, XML, and more
 * [Emojipedia](https://emojipedia.org/) - Emojis list for copy and paste
 * [Remove duplicated lines](https://www.textfixer.com/tools/remove-duplicate-lines.php) - Remove duplicated lines and sort text lines
