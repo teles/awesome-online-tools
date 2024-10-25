@@ -15,6 +15,10 @@ Useful and awesome online tools that I often use. No download, no signup require
 
 ## CSS to copy
 * [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Box shadow examples to copy
+* [Clippy](https://bennettfeely.com/clippy/) - A tool for creating and copying custom CSS shapes using `clip-path`.
+* [CSS Loaders](https://css-loaders.com/classic/) - Pre-made CSS loaders that you can copy and customize for your projects.
+* [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Interactive tool for creating complex border-radius shapes with CSS.
+* [Neumorphism.io](https://neumorphism.io/#e0e0e0) - Generate and copy CSS for neumorphic designs.
 
 ## Data transform and visualization
 * [CSV to JSON](https://csvjson.com/) - Transform CSV content to JSON arrays
