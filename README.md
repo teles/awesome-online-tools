@@ -1,12 +1,13 @@
-# Awesome tools for developers daily usage
+
+# Awesome Click and Use
 
 [![Download bookmarks file](https://img.shields.io/badge/download-bookmarks%20file-orange)](/dist/bookmarks.html)
 
-Useful and awesome online tools that often I use. 
-No download, no signup required.
+Useful and awesome online tools that I often use. No download, no signup required. All of these tools are perfect for developers looking for **click and use** solutions—simply access them online and start working right away.
 
 ## Artificial Intelligence
 * [ChatGPT](https://chat.openai.com/chat) - Dialogue optimized model
+* [NotebookLM](https://notebooklm.google.com/) - AI-powered tool from Google for creating structured notes and assisting with research.
 
 ## Colors
 * [Color Designer](https://colordesigner.io/) - Several useful tools including conversion between color models, color palette from image, and a visually appealing gradient generator
@@ -21,6 +22,7 @@ No download, no signup required.
 * [JSON Crack](https://jsoncrack.com/) - Visualize your JSON data instantly into graphs
 * [JSON to CSV](https://csvjson.com/json2csv) - Transform JSON data to CSV file
 * [json2ts](http://json2ts.com/) - Generate TypeScript interfaces from JSON
+* [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/) - Convert spreadsheet data into JSON, XML, SQL and more
 * [QuickChart](https://quickchart.io/sandbox) - API for generating charts and visualizations via URL
 
 ## Diagrams
@@ -35,8 +37,10 @@ No download, no signup required.
 * [Easing Functions Cheat Sheet](https://easings.net/) - Explanation and demonstrations of numerous easing functions
 
 ## Image manipulation
+* [Carbon](https://carbon.now.sh) - Create beautiful images of your source code for sharing
 * [Cleanup Pictures](https://cleanup.pictures/) - Remove unwanted objects from photos
 * [favicon.io](https://favicon.io/) - Create favicons using text, images or emojis
+* [Image Resizer](https://imageresizer.com/) - Resize images online without loss of quality
 * [Remove.bg](https://www.remove.bg/pt-br/upload) - Remove image backgrounds automatically
 * [SVG Optimizer](https://svgoptimizer.com/) - Minify svg files
 * [SVG to PNG](https://svgtopng.com/) - Converts svg files to png
@@ -54,6 +58,7 @@ No download, no signup required.
 * [Google Colab](https://colab.research.google.com/) - Run Python snippets online
 * [Jasmine template for Codepen](https://codepen.io/teles/pen/aKrBrg) - Template for using Jasmine on codepen
 * [PHP CLI](https://replit.com/languages/php_cli) - Compile and test PHP code
+* [Prettier Playground](https://prettier.io/playground/) - Online tool for automatic code formatting
 * [Typescript playground](https://www.typescriptlang.org/play) - Typescript online REPL
 
 ## Screen Recording
