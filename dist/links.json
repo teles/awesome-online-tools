@@ -46,5 +46,7 @@
 {"section": "SEO", "name": "Rich Results", "description": "Check your structured data", "url": "https://search.google.com/test/rich-results"},
 {"section": "Text manipulation", "name": "Convertio", "description": "File conversion, including CSV, JSON, XML, and more", "url": "https://convertio.co/pt/"},
 {"section": "Text manipulation", "name": "Emojipedia", "description": "Emojis list for copy and paste", "url": "https://emojipedia.org/"},
-{"section": "Text manipulation", "name": "Remove duplicated lines", "description": "Remove duplicated lines and sort text lines", "url": "https://www.textfixer.com/tools/remove-duplicate-lines.php"}
+{"section": "Text manipulation", "name": "Remove duplicated lines", "description": "Remove duplicated lines and sort text lines", "url": "https://www.textfixer.com/tools/remove-duplicate-lines.php"},
+{"section": "Web Development Utilities", "name": "CORS Test", "description": "Check CORS support on APIs and servers instantly.", "url": "https://cors-test.codehappy.dev/"},
+{"section": "Web Development Utilities", "name": "ReqBin", "description": "Online tool for testing HTTP requests, including GET, POST, PUT, and DELETE, directly in the browser.", "url": "https://reqbin.com/"}
 ]}
