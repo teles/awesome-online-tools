@@ -77,3 +77,8 @@ Useful and awesome online tools that I often use. No download, no signup require
 * [Convertio](https://convertio.co/pt/) - File conversion, including CSV, JSON, XML, and more
 * [Emojipedia](https://emojipedia.org/) - Emojis list for copy and paste
 * [Remove duplicated lines](https://www.textfixer.com/tools/remove-duplicate-lines.php) - Remove duplicated lines and sort text lines
+
+## Web Development Utilities
+* [CORS Test](https://cors-test.codehappy.dev/) - Check CORS support on APIs and servers instantly.
+* [ReqBin](https://reqbin.com/) - Online tool for testing HTTP requests, including GET, POST, PUT, and DELETE, directly in the browser.
+
