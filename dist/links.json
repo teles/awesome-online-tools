@@ -2,6 +2,7 @@
 {"section": "Artificial Intelligence", "name": "NotebookLM", "description": "AI-powered tool from Google for creating structured notes and assisting with research.", "url": "https://notebooklm.google.com/"},
 {"section": "Colors", "name": "Color Designer", "description": "Several useful tools including conversion between color models, color palette from image, and a visually appealing gradient generator", "url": "https://colordesigner.io/"},
 {"section": "Colors", "name": "Colors stacks", "description": "A color palette generator for design systems", "url": "https://lokeshdhakar.com/projects/color-stacks/"},
+{"section": "Colors", "name": "Tailwind CSS Color Generator", "description": "Tool for generating and customizing Tailwind color palettes; includes paid features", "url": "https://uicolors.app/create"},
 {"section": "CSS to copy", "name": "Beautiful CSS box-shadow examples", "description": "Box shadow examples to copy", "url": "https://getcssscan.com/css-box-shadow-examples"},
 {"section": "CSS to copy", "name": "Clippy", "description": "A tool for creating and copying custom CSS shapes using `clip-path`.", "url": "https://bennettfeely.com/clippy/"},
 {"section": "CSS to copy", "name": "CSS Loaders", "description": "Pre-made CSS loaders that you can copy and customize for your projects.", "url": "https://css-loaders.com/classic/"},
