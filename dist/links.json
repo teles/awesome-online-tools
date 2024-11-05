@@ -12,7 +12,7 @@
 {"section": "Data transform and visualization", "name": "DiffChecker", "description": "Compare two different files line by line", "url": "https://www.diffchecker.com/"},
 {"section": "Data transform and visualization", "name": "JSON Crack", "description": "Visualize your JSON data instantly into graphs", "url": "https://jsoncrack.com/"},
 {"section": "Data transform and visualization", "name": "JSON to CSV", "description": "Transform JSON data to CSV file", "url": "https://csvjson.com/json2csv"},
-{"section": "Data transform and visualization", "name": "json2ts", "description": "Generate TypeScript interfaces from JSON", "url": "http://json2ts.com/"},
+{"section": "Data transform and visualization", "name": "JSON to TypeScript", "description": "Instantly generate TypeScript interfaces from JSON.", "url": "https://quicktype.io/typescript"},
 {"section": "Data transform and visualization", "name": "Mr. Data Converter", "description": "Convert spreadsheet data into JSON, XML, SQL and more", "url": "https://shancarter.github.io/mr-data-converter/"},
 {"section": "Data transform and visualization", "name": "QuickChart", "description": "API for generating charts and visualizations via URL", "url": "https://quickchart.io/sandbox"},
 {"section": "Diagrams", "name": "dbdiagram.io", "description": "Draw Entity-Relationship Diagrams, Painlessly", "url": "https://dbdiagram.io/d"},
