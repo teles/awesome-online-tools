@@ -26,7 +26,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 * [DiffChecker](https://www.diffchecker.com/) - Compare two different files line by line
 * [JSON Crack](https://jsoncrack.com/) - Visualize your JSON data instantly into graphs
 * [JSON to CSV](https://csvjson.com/json2csv) - Transform JSON data to CSV file
-* [json2ts](http://json2ts.com/) - Generate TypeScript interfaces from JSON
+* [JSON to TypeScript](https://quicktype.io/typescript) - Instantly generate TypeScript interfaces from JSON.
 * [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/) - Convert spreadsheet data into JSON, XML, SQL and more
 * [QuickChart](https://quickchart.io/sandbox) - API for generating charts and visualizations via URL
 
