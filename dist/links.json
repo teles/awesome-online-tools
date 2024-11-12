@@ -49,5 +49,6 @@
 {"section": "Text manipulation", "name": "Emojipedia", "description": "Emojis list for copy and paste", "url": "https://emojipedia.org/"},
 {"section": "Text manipulation", "name": "Remove duplicated lines", "description": "Remove duplicated lines and sort text lines", "url": "https://www.textfixer.com/tools/remove-duplicate-lines.php"},
 {"section": "Web Development Utilities", "name": "CORS Test", "description": "Check CORS support on APIs and servers instantly.", "url": "https://cors-test.codehappy.dev/"},
+{"section": "Web Development Utilities", "name": "Mocky Designer", "description": "Create and customize mock APIs instantly, with options to design and share JSON responses.", "url": "https://designer.mocky.io/design"},
 {"section": "Web Development Utilities", "name": "ReqBin", "description": "Online tool for testing HTTP requests, including GET, POST, PUT, and DELETE, directly in the browser.", "url": "https://reqbin.com/"}
 ]}
