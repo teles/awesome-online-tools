@@ -27,6 +27,7 @@
 {"section": "Image manipulation", "name": "favicon.io", "description": "Create favicons using text, images or emojis", "url": "https://favicon.io/"},
 {"section": "Image manipulation", "name": "Image Resizer", "description": "Resize images online without loss of quality", "url": "https://imageresizer.com/"},
 {"section": "Image manipulation", "name": "Remove.bg", "description": "Remove image backgrounds automatically", "url": "https://www.remove.bg/pt-br/upload"},
+{"section": "Image manipulation", "name": "Squish", "description": "Compress and convert images to AVIF, JPEG, JPEG XL, PNG, or WebP formats, powered by Squoosh.", "url": "https://squish.addy.ie/"},
 {"section": "Image manipulation", "name": "SVG Optimizer", "description": "Minify svg files", "url": "https://svgoptimizer.com/"},
 {"section": "Image manipulation", "name": "SVG to PNG", "description": "Converts svg files to png", "url": "https://svgtopng.com/"},
 {"section": "Image manipulation", "name": "SVG Viewer", "description": "SVG to png, react, data uri and more", "url": "https://www.svgviewer.dev/"},
