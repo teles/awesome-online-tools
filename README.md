@@ -7,7 +7,9 @@ Useful and awesome online tools that I often use. No download, no signup require
 
 ## Artificial Intelligence
 * [ChatGPT](https://chat.openai.com/chat) - Dialogue optimized model
+* [GitIngest](https://gitingest.com/) - AI-powered tool to query and analyze your Git repositories for insights and understanding.
 * [NotebookLM](https://notebooklm.google.com/) - AI-powered tool from Google for creating structured notes and assisting with research.
+
 
 ## Colors
 * [Color Designer](https://colordesigner.io/) - Several useful tools including conversion between color models, color palette from image, and a visually appealing gradient generator
