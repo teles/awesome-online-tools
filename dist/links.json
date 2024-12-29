@@ -1,4 +1,5 @@
 {"section": "Artificial Intelligence", "name": "ChatGPT", "description": "Dialogue optimized model", "url": "https://chat.openai.com/chat"},
+{"section": "Artificial Intelligence", "name": "GitIngest", "description": "AI-powered tool to query and analyze your Git repositories for insights and understanding.", "url": "https://gitingest.com/"},
 {"section": "Artificial Intelligence", "name": "NotebookLM", "description": "AI-powered tool from Google for creating structured notes and assisting with research.", "url": "https://notebooklm.google.com/"},
 {"section": "Colors", "name": "Color Designer", "description": "Several useful tools including conversion between color models, color palette from image, and a visually appealing gradient generator", "url": "https://colordesigner.io/"},
 {"section": "Colors", "name": "Colors stacks", "description": "A color palette generator for design systems", "url": "https://lokeshdhakar.com/projects/color-stacks/"},
