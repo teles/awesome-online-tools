@@ -35,6 +35,7 @@ Useful and awesome online tools that I often use. No download, no signup require
 ## Diagrams
 * [dbdiagram.io](https://dbdiagram.io/d) - Draw Entity-Relationship Diagrams, Painlessly
 * [Excalidraw](https://excalidraw.com/) - Create sketch hand-drawn-like diagrams
+* [GitDiagram](https://gitdiagram.com/) - Generate visual diagrams to represent Git branches and commit history.
 * [Markmap](https://markmap.js.org/repl) - Build interactive mindmaps using markdown
 * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/edit) - Create and share diagrams using markdown language
 * [Mind Meister](https://www.mindmeister.com/) - Tools for easily create mind maps 
