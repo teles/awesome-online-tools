@@ -18,6 +18,7 @@
 {"section": "Data transform and visualization", "name": "QuickChart", "description": "API for generating charts and visualizations via URL", "url": "https://quickchart.io/sandbox"},
 {"section": "Diagrams", "name": "dbdiagram.io", "description": "Draw Entity-Relationship Diagrams, Painlessly", "url": "https://dbdiagram.io/d"},
 {"section": "Diagrams", "name": "Excalidraw", "description": "Create sketch hand-drawn-like diagrams", "url": "https://excalidraw.com/"},
+{"section": "Diagrams", "name": "GitDiagram", "description": "Generate visual diagrams to represent Git branches and commit history.", "url": "https://gitdiagram.com/"},
 {"section": "Diagrams", "name": "Markmap", "description": "Build interactive mindmaps using markdown", "url": "https://markmap.js.org/repl"},
 {"section": "Diagrams", "name": "Mermaid live editor", "description": "Create and share diagrams using markdown language", "url": "https://mermaid-js.github.io/mermaid-live-editor/edit"},
 {"section": "Diagrams", "name": "Mind Meister", "description": "Tools for easily create mind maps ", "url": "https://www.mindmeister.com/"},
