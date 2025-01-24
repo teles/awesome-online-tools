@@ -50,7 +50,8 @@ Useful and awesome online tools that I often use. No download, no signup require
 * [favicon.io](https://favicon.io/) - Create favicons using text, images or emojis
 * [Image Resizer](https://imageresizer.com/) - Resize images online without loss of quality
 * [Remove.bg](https://www.remove.bg/pt-br/upload) - Remove image backgrounds automatically
-* [Squish](https://squish.addy.ie/) - Compress and convert images to AVIF, JPEG, JPEG XL, PNG, or WebP formats, powered by Squoosh.
+* [Squish](https://squish.addy.ie/) - Compress and convert images to AVIF, JPEG, JPEG XL, PNG, or WebP formats, powered by Squoosh
+* [SVGOMG](https://jakearchibald.github.io/svgomg/) - Optimize and minify SVG files easily with a user-friendly interface
 * [SVG Optimizer](https://svgoptimizer.com/) - Minify svg files
 * [SVG to PNG](https://svgtopng.com/) - Converts svg files to png
 * [SVG Viewer](https://www.svgviewer.dev/) - SVG to png, react, data uri and more
